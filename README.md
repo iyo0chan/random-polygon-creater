@@ -3,6 +3,7 @@
 Reads a point data file, randomly generates polygons with all points as vertices, and outputs the figure and area.
 
 After generating the polygons the default number of times, it will output the figure and area of the last polygon with the smallest area.
+
 ![sample](https://github.com/iyo0chan/random-polygon-creater/blob/main/sample.gif)
 ## Getting Started
 
